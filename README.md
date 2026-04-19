@@ -7,6 +7,6 @@
 - I am training in DevOps and Data Science 
 - 👯 I would like to collaborate with data engineers 
 - 💬 Ask me about Cloud Services, Linux, Data, Python, and Mathematics 
-- 😄 Pronouns: he
+- 😄 Pronouns: him
 - ⚡ Fun fact: I’m organized and methodical in everything I do; I like cooking, plants, reading, classical music, and cats
 - - 📫 How to contact me: 
