@@ -1,7 +1,7 @@
 ## Hi there 👋  Santiago González Chávez 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6DAC76&width=435&lines=Ciudad de Mexico%2C+México.+--Math+--Data Engineer+--DevOps+--ai)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6DAC76&width=435&lines=Ciudad+de+Mexico%2C+México.%3B--Math%3B--Data+Engineer%3B--DevOps%3B--ai)](https://git.io/typing-svg)
 
 
 
