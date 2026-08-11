@@ -13,6 +13,8 @@
 - ⚡ Fun fact: I’m organized and methodical in everything I do; I like cooking, plants, reading, classical music, and cats
 - - 📫 How to contact me: 
 
+https://developers.google.com/profile/badges/community/innovators/cloud/2021_member?u=110104626709979087234
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SantiagoGlezCh7&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Contador de visitas"/>
 </p>
