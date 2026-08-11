@@ -11,9 +11,10 @@
 - 💬 Ask me about Cloud Services, Data, Python, and Mathematics 
 - 😄 Pronouns: him
 - ⚡ Fun fact: I’m organized and methodical in everything I do; I like cooking, plants, reading, classical music, and cats
-- - 📫 How to contact me: 
+- - 📫 How contact me: 
+ 
+[![Google Cloud Innovator](https://img.shields.io/badge/Google%20Cloud-Innovator-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member?u=110104626709979087234)
 
-https://developers.google.com/profile/badges/community/innovators/cloud/2021_member?u=110104626709979087234
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SantiagoGlezCh7&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Contador de visitas"/>
